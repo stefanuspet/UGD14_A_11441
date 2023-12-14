@@ -1,8 +1,11 @@
-# React + Vite
+# Chat Apps
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+### This apps not support mobile device
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React + Firebase + Tailwind
+
+**Stepanus Petra Pambudi / 210711441**
+
+[Link to access this Apps](https://pw-firebase-11441.web.app/)

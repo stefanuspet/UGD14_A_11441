@@ -1,14 +1,13 @@
-import React from 'react'
-import Sidebar from '../components/sidebar'
-import RoomChat from '../components/RoomChat'
+import Sidebar from "../components/sidebar";
+import RoomChat from "../components/RoomChat";
 
 function Dashboard() {
-    return (
-        <div className='container py-10 flex justify-center h-screen'>
-            <Sidebar />
-            <RoomChat />
-        </div>
-    )
+  return (
+    <div className="container flex h-screen justify-center py-10">
+      <Sidebar />
+      <RoomChat />
+    </div>
+  );
 }
 
-export default Dashboard
+export default Dashboard;
